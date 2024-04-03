@@ -53,3 +53,15 @@ input {
     color: #fff;
 }
 
+
+/* Styling for task which get added to to-do list */
+
+.task {
+    width: 100%;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 3px;
+    
+    padding: 5px;
+    
+}
