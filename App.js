@@ -42,3 +42,4 @@ addTask.addEventListener("click", function () {
     target.parentElement.parentElement.remove();
   });
 });
+
